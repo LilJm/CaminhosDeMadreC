@@ -13,3 +13,15 @@ Autores: João Matheus Veríssimo Francisco
 Karina Zaniti Sanches
 Lucas Leão Franco Paes
 Thiago de Carvalho Galli
+
+## Intruções
+
+1° Acesse o Drive - https://drive.google.com/file/d/13eLZgmnL12dVAOmMdrIjIqleZgDFgV3j/view?usp=sharing
+
+2° Baixe o arquivo "build.rar"
+
+3° Extraia o arquivo "build.rar"
+
+4° Execute o arquivo "Caminhos de Madre Clélia"
+
+5° Tudo pronto!! 😁
